@@ -93,9 +93,3 @@ This system can significantly reduce unexpected breakdowns and improve factory p
 - Build a simple dashboard for maintenance alerts  
 
 ---
-
-## 👩‍💻 Developed By
-
-**Anu (Anusiya Lakshmaraj)**  
-Data Science Intern | Student  
-Interested in Machine Learning, Deep Learning, and Real-World AI Applications
